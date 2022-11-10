@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsAppPubs.Models.Author" Collapsed="true">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAIAAAACAAAAAIAAEAkAAAAAAAQCAA=</HashCode>
+      <FileName>Models\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Discount" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAABAAAQBAAAAAAIgAAA=</HashCode>
+      <FileName>Models\Discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Employee" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAJBQAAAABAAAAAAAAABAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+      <NewMemberFileName>Models\employee.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Job" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAABgAAAA=</HashCode>
+      <FileName>Models\Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Pub_info" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Pub_info.cs</FileName>
+      <NewMemberFileName>Models\pub_info.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Publisher" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAQAAAAAAAAAAICAAAAAAAQAAGAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.PubsContext" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBARAAAAAAEAAAIAABAEAAEAAABQAAAAAIAAAA=</HashCode>
+      <FileName>Models\PubsContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Roysched" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgQAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Roysched.cs</FileName>
+      <NewMemberFileName>Models\roysched.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Sale" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAAAYAAAAAAAAIAAAAAAAABAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Store">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAACAAAAABAAAAEABAAAAYAAAA=</HashCode>
+      <FileName>Models\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.TitleAuthor">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQgAAACAAAAAAAAAAAAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>Models\TitleAuthor.cs</FileName>
+      <NewMemberFileName>Models\titleauthor.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAppPubs.Models.Title">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEghAIBiRAAAAAAEAAAAAAAAAAAFAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\Title.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
